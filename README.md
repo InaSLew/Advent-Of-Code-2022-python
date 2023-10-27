@@ -1,3 +1,3 @@
 # ADVENT OF CODE 2022
 
-I love advent of code and want to get back into coding in python so here we are!
+My solutions in python for [Advent of Code 2022](https://adventofcode.com/2022)'s puzzles!
